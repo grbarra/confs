@@ -1,1 +1,2 @@
-vless://efd0fceb-9d78-4656-a335-a8d2dc202e6f@2.27.35.93:24395?type=tcp&encryption=none&security=none#Ya-5ivaf9s7
+vless://efd0fceb-9d78-4656-a335-a8d2dc202e6f@2.27.35.93:24395?type=tcp&encryption=none&security=none#Ya-5ivaf9s
+vless://b7a29c35-e8d0-9674-4fcf-18315867c6d3@2.27.55.141:57193?type=tcp&encryption=none&security=reality&pbk=xnP0BDiFsxkfFcgJv3h8tfGRadE683Y0mADBc1F5pEY&fp=firefox&sni=www.sony.com&sid=25&spx=%2F&flow=xtls-rprx-vision#users
