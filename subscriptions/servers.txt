@@ -1,0 +1,1 @@
+vless://efd0fceb-9d78-4656-a335-a8d2dc202e6f@2.27.35.93:24395?type=tcp&encryption=none&security=none#Ya-5ivaf9s7
